@@ -13,17 +13,13 @@ No fim das contas, meu trabalho é conectar **tecnologia, usabilidade e valor de
 ## ⚙️ Stack Principal
 
 **Linguagens e frameworks:**
-TypeScript • Node.js • Next.js • React • NestJS
-
+TypeScript • Node.js • Next.js • React • NestJS  
 **Banco de dados:**
-PostgreSQL • MongoDB • Prisma • TypeORM • Drizzle ORM
-
+PostgreSQL • MongoDB • Prisma • TypeORM • Drizzle ORM  
 **Infra e DevOps:**
-Docker • CI/CD (GitHub Actions, Vercel) • Linux
-
+Docker • CI/CD (GitHub Actions, Vercel) • Linux  
 **Boas práticas:**
-Clean Code • SOLID • Code Review • Testes automatizados • REST e GraphQL APIs
-
+Clean Code • SOLID • Code Review • Testes automatizados • REST e GraphQL APIs  
 **Low-code:**
 FlutterFlow • n8n
 
@@ -31,7 +27,7 @@ FlutterFlow • n8n
 
 ## 💼 Experiência Profissional
 
-**Arrow Digital** — *Full Stack Developer*
+**Arrow Digital** — *Full Stack Developer*  
 📆 jul/2022 — presente
 
 Atuo do front ao back-end, priorizando estabilidade, modularidade e integração limpa entre serviços.
@@ -41,7 +37,7 @@ Atuo do front ao back-end, priorizando estabilidade, modularidade e integração
 * Participação em decisões de arquitetura e modelagem de dados
 * Contribuição direta em produtos internos
 
-**Antes disso (2015–2022):**
+**Antes disso (2015–2022):**  
 Trabalhei como **UX/UI Designer** e **Product Designer** em agências e startups.
 Essa vivência moldou minha forma de pensar produto, **usabilidade** e **design systems** de um jeito bem prático.
 
@@ -71,8 +67,8 @@ Essa vivência moldou minha forma de pensar produto, **usabilidade** e **design 
 
 Hoje atuo principalmente em projetos privados da **Arrow Digital**, com foco em arquitetura, integrações e revisão de código.
 
-> +2.800 contribuições no GitHub (corporativo e pessoal)
-> +30 PRs revisadas e +110 abertas
+> +2.800 contribuições no GitHub (corporativo e pessoal)  
+> +30 PRs revisadas e +110 abertas  
 > +50 issues resolvidas e +30 documentações técnicas publicadas
 
 Participo ativamente de **code reviews**, **automação CI/CD** e otimizações de **performance**.
@@ -93,7 +89,7 @@ Busco sempre um equilíbrio entre **velocidade e manutenção**, criando soluç�
 
 ## 📫 Onde me achar
 
-📍 Passo Fundo, RS – Brasil
-📧 [felipe.boff3@gmail.com](mailto:felipe.boff3@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/felipeboff3/)
-💻 [GitHub](https://github.com/felipeboff)
+📍 Passo Fundo, RS – Brasil  
+📧 [felipe.boff3@gmail.com](mailto:felipe.boff3@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/felipeboff3/)  
+💻 [GitHub](https://github.com/felipeboff)  
