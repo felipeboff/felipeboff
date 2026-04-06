@@ -1,95 +1,126 @@
-# 👋 Fala aí, eu sou o Felipe Boff
+# Fala aí, eu sou o Felipe Boff
 
-Sou **desenvolvedor full stack** na [Arrow Digital](https://arrowdigital.group/), com foco em **TypeScript**, **Node.js** e **FlutterFlow**.
-Trabalho construindo aplicações web escaláveis, pensando sempre em **performance**, **arquitetura limpa** e **entregas consistentes**.
+**Backend Developer | Node.js, TypeScript, APIs e arquitetura limpa**
 
-Tenho base em design, o que me ajuda a olhar o produto como um todo, da engenharia à experiência do usuário.
-No fim das contas, meu trabalho é conectar **tecnologia, usabilidade e valor de negócio** em soluções que realmente funcionam.
+Hoje eu me vejo muito mais como um desenvolvedor backend pleno, com foco em Node.js, TypeScript, APIs e organização de sistemas que precisam continuar fazendo sentido quando o produto cresce.
 
-> De designer a full stack hoje eu junto lógica e estética pra criar produtos estáveis, rápidos e bem pensados.
+Tenho bagagem em design, mas hoje isso entra mais como repertório do que como foco. Ajuda no olhar de produto, na clareza e nas decisões de experiência, só que meu trabalho mesmo está no backend, na regra de negócio, na arquitetura e nas integrações.
 
----
+Gosto de construir sistema bom de usar, claro, mas principalmente sistema bom de manter.
 
-## ⚙️ Stack Principal
-
-**Linguagens e frameworks:**
-TypeScript • Node.js • Next.js • React • NestJS  
-**Banco de dados:**
-PostgreSQL • MongoDB • Prisma • TypeORM • Drizzle ORM  
-**Infra e DevOps:**
-Docker • CI/CD (GitHub Actions, Vercel) • Linux  
-**Boas práticas:**
-Clean Code • SOLID • Code Review • Testes automatizados • REST e GraphQL APIs  
-**Low-code:**
-FlutterFlow • n8n
+> Curto desafio que pede domínio técnico, organização e um pouco de senso de produto. Normalmente é aí que o trabalho fica mais interessante.
 
 ---
 
-## 💼 Experiência Profissional
+## Stack principal
 
-**Arrow Digital** — *Full Stack Developer*  
-📆 jul/2022 — presente
+**Front-end**  
+React • Next.js • TypeScript
 
-Atuo do front ao back-end, priorizando estabilidade, modularidade e integração limpa entre serviços.
+**Back-end**  
+Node.js • TypeScript • APIs REST
 
-* Desenvolvimento de **APIs REST** com NodeJS e MongoDB
-* Revisão de código e padronização técnica entre equipes
-* Participação em decisões de arquitetura e modelagem de dados
-* Contribuição direta em produtos internos
+**Banco de dados**  
+PostgreSQL • MongoDB
 
-**Antes disso (2015–2022):**  
-Trabalhei como **UX/UI Designer** e **Product Designer** em agências e startups.
-Essa vivência moldou minha forma de pensar produto, **usabilidade** e **design systems** de um jeito bem prático.
+**Infraestrutura**  
+AWS • Redis • Filas • Linux
 
----
-
-## 🎓 Formação e Certificações
-
-* Tecnólogo em **Análise e Desenvolvimento de Sistemas** — Unintese (2024–2027)
-* Tecnólogo em **Design Gráfico** — UPF (2017–2019)
-
-**Algumas certificações que marcaram minha trilha:**
-
-* Advanced Full Stack Development
-* TypeScript Architecture & Clean Code
-* Node.js Microservices & API Security
-* Next.js Advanced Performance & SSR
-* DevOps Foundations (Docker, CI/CD, Containers)
-* Database Design with PostgreSQL & MongoDB
-* Software Architecture & Design Patterns
-* Agile & Scrum Professional Certification
-* UI Engineering & Design Systems
-* Testing Automation with Jest & Cypress
+**Arquitetura e qualidade**  
+Clean Architecture • Organização de domínio • Integrações escaláveis • Código sustentável
 
 ---
 
-## 📊 GitHub Overview
+## O que eu faço hoje
 
-Hoje atuo principalmente em projetos privados da **Arrow Digital**, com foco em arquitetura, integrações e revisão de código.
+Hoje atuo na estruturação técnica e na evolução arquitetural de produtos SaaS, do domínio até a infra. Apesar de ter repertório full stack, minha força hoje está bem mais concentrada no backend.
 
-> +2.800 contribuições no GitHub (corporativo e pessoal)  
-> +30 PRs revisadas e +110 abertas  
-> +50 issues resolvidas e +30 documentações técnicas publicadas
+Tenho experiência prática com Node.js e TypeScript na construção de APIs, modelagem com MongoDB e PostgreSQL, uso de Redis, filas, integrações e infraestrutura em AWS. No front eu consigo atuar bem, mas é no backend que tenho colocado mais energia e profundidade.
 
-Participo ativamente de **code reviews**, **automação CI/CD** e otimizações de **performance**.
-Meu foco é sempre o mesmo: **código limpo, colaboração técnica e entregas sólidas**.
+Uma coisa que valorizo bastante é simplicidade estrutural. Sistema enxuto, integração clara, regra de negócio organizada e código que não vira um peso daqui a seis meses.
 
 ---
 
-## 🧩 Filosofia de Desenvolvimento
+## Experiência
 
-Pra mim, **código limpo é sobre comunicação**.
-Mais do que escrever bonito, é sobre deixar claro o suficiente pra alguém evoluir sem medo.
+**LinkIO**  
+_Full Stack Developer_  
+`dez/2025 - atual`
 
-Busco sempre um equilíbrio entre **velocidade e manutenção**, criando soluções simples, escaláveis e sustentáveis.
+Responsável pela estruturação técnica e pela evolução arquitetural do produto SaaS.
 
-> “Software de qualidade é aquele que alguém entende o suficiente pra evoluir sem medo.”
+- Modelagem e organização de backend em Node.js com TypeScript
+- Estruturação com base em princípios de arquitetura limpa
+- Integração entre regras de negócio e interface, sem separar uma coisa da outra
+- Otimizações de performance com Redis e sistemas de filas
+- Configuração e gestão de ambiente AWS
+
+**Arrow Digital**  
+_Full Stack Developer_  
+`jul/2023 - dez/2025`
+
+- Atuei em produtos digitais com foco em organização estrutural e integração entre front-end e back-end.
+- Desenvolvimento de APIs REST em Node.js com TypeScript
+- Modelagem de dados com MongoDB
+- Implementação de interfaces com FlutterFlow e customizações avançadas
+- Integração de serviços externos e sustentação de funcionalidades críticas
+- Organização de código visando clareza e manutenção a longo prazo
+
+**Hug.u**  
+_Product Designer_  
+`out/2022 - jun/2023`
+
+- Atuei no ciclo de produto conectando experiência do usuário com viabilidade técnica
+- Discovery e validação baseada em evidências
+- Estruturação de fluxos e protótipos orientados a impacto real
+- Priorização de roadmap considerando restrições técnicas
+- Interface entre negócio, experiência e execução
+
+Antes de migrar de vez para desenvolvimento, passei alguns anos trabalhando com design, comunicação e produto. Hoje essa parte aparece menos como função e mais como contexto. Ela me ajuda a escrever software com mais clareza e com mais noção de impacto real.
 
 ---
 
-## 📫 Onde me achar
+## Formação
 
-📍 Passo Fundo, RS – Brasil  
-📧 [felipe.boff3@gmail.com](mailto:felipe.boff3@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/felipeboff3/)  
-💻 [GitHub](https://github.com/felipeboff)  
+- Tecnólogo em Análise de Sistemas, Centro Educacional Unintese (`2024 - 2027`)
+- Tecnólogo em Design Gráfico, Universidade de Passo Fundo (`2017 - 2019`)
+- Formação Profissional em UX Design, UX Unicórnio (`2021 - 2022`)
+- Formação Profissional em Desenvolvimento Full Stack, Full Stack Club (`2025 - 2026`)
+- Formação Profissional Full Cycle 4.0 (`2026 - 2027`)
+
+---
+
+## Estudos recentes
+
+Nos últimos meses tenho direcionado meus estudos para backend, arquitetura e infra. O que mais conversa com meu momento agora é isso aqui, onde eu tenho aprofundado de verdade:
+
+- Docker, APIs, testes, SOLID, design patterns, arquitetura hexagonal e clean architecture
+- Aprofundamento em DDD, microsserviços, mensageria, PostgreSQL, MongoDB, Redis, segurança, Kubernetes, CI/CD, observabilidade e SRE
+- Revisão de fundamentos que ajudou mais a consolidar e organizar conhecimento do que necessariamente aprender algo do zero
+
+---
+
+## Competências
+
+- Sistemas operacionais
+- REST
+- Amazon Web Services
+- Arquitetura limpa
+- Node.js e TypeScript
+- Desenvolvimento backend
+
+---
+
+## Idiomas e certificação
+
+- Português, nativo
+- Inglês, básico
+- Certificado em UX, Formação em UX, UI e Product Design
+
+---
+
+## Contato
+
+- Email, [felipe.boff3@gmail.com](mailto:felipe.boff3@gmail.com)
+- LinkedIn, [linkedin.com/in/felipeboff3](https://www.linkedin.com/in/felipeboff3/)
+- GitHub, [github.com/felipeboff](https://github.com/felipeboff)
